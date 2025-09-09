@@ -1,4 +1,4 @@
-package com.example.myproject.internal-working-of-spring-boot;
+package com.example.myproject.internal_working_of_spring_boot;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
